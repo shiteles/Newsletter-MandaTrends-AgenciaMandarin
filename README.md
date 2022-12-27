@@ -6,7 +6,7 @@
 ### Projeto desenvolvido como parte do processo seletivo do Porgrama de estágio [#MandaBem](https://mandabem.mandarin.com.br/?utm_source=Redes+Sociais&utm_medium=LinkedIn&utm_campaign=post_linkedin&utm_id=MandaBEM+01.22#processos) da Agência Mandarin.
 
 ---
-#### *Briefing*
+## :dart:  *Briefing*
 
 Adaptar um layout de newsletter disponibilizado em PSD para HTML para ser enviado por e-mail, com responsividade.
 
@@ -16,7 +16,7 @@ Adaptar um layout de newsletter disponibilizado em PSD para HTML para ser enviad
 
 ---
 
-#### *Responsividade*
+## :calling: *Responsividade*
 
 <br />
 <p align="center"> <img src="https://github.com/shiteles/Newsletter-MandaTrends-AgenciaMandarin/blob/main/assets/mandatrends-responsividade.gif"  width ="100%"> </p>
@@ -24,7 +24,7 @@ Adaptar um layout de newsletter disponibilizado em PSD para HTML para ser enviad
 
 
 ---
-####  *Tecnologias*
+## :floppy_disk: *Tecnologias*
 
 As seguintes ferramentas foram usadas na construção desse projeto:
 
@@ -34,4 +34,4 @@ As seguintes ferramentas foram usadas na construção desse projeto:
 </p>
 
 ---
-##### Desenvolvido  por [Shi Teles](https://www.linkedin.com/in/shirleneteles/) :heart:
+#### Desenvolvido  por [Shi Teles](https://www.linkedin.com/in/shirleneteles/) :heart:
